@@ -39,4 +39,4 @@ As seguintes bibliotecas Python foram utilizadas para a análise de dados e visu
 Para utilizar, basta clonar o repositório e instalar o arquivo requirements.txt em um ambiente Python. Os scripts são bem documentados e podem ser facilmente adaptados para outras análises de dados.
 
 ## Possíveis melhorias
-Realizar mais análises que verifiquem a confiabilidade do teste estatístico, blindando ainda mais o teste de possíveis erros na separação dos grupos do experimento, podendo interferir nas conclusões tiradas.
+Realizar mais análises que verifiquem a confiabilidade do teste estatístico, blindando ainda mais o teste de possíveis erros na separação dos grupos do experimento, podendo interferir nas conclusões tiradas. Além disso, trazer mais informações sobre o teste escolhido, principalmente em relação a escolha feita por utilizar um teste de distribuição normal ou um teste t-student.
